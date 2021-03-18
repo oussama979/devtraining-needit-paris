@@ -55,7 +55,7 @@
         <interval>year</interval>
         <is_published>false</is_published>
         <is_real_time>false</is_real_time>
-        <is_scheduled>false</is_scheduled>
+        <is_scheduled>true</is_scheduled>
         <legend_align_columns>true</legend_align_columns>
         <legend_background_color/>
         <legend_border_color/>
@@ -104,14 +104,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-03-18 12:57:08</sys_created_on>
         <sys_id>6962e29c07cf20104560f6fd7c1ed00d</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>23</sys_mod_count>
         <sys_name>NeedIt Requests by Type</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_report_6962e29c07cf20104560f6fd7c1ed00d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-03-18 15:24:16</sys_updated_on>
+        <sys_updated_on>2021-03-18 16:02:53</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <title>NeedIt Requests by Type</title>
         <title_horizontal_alignment>left</title_horizontal_alignment>
@@ -122,7 +122,7 @@
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
-        <user>GLOBAL</user>
+        <user>group</user>
         <x_axis_allow_decimals>true</x_axis_allow_decimals>
         <x_axis_display_grid>false</x_axis_display_grid>
         <x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color>
